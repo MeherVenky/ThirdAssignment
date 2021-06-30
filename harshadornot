@@ -5,9 +5,7 @@ public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
 int n;
-System.out.println("Enter number");
 n=sc.nextInt();
-System.out.println("harshad number");
 int m;
 m=n;
 int r;
